@@ -1,6 +1,6 @@
 # EX 1A Reverse a String
 
-## DATE:04/03/2025
+## DATE: 04/03/2025
 
 ### AIM:
 
