@@ -1,6 +1,6 @@
 # EX 1D Linear search
 
-## DATE:01/05/2025
+## DATE:04/03/2025
 
 ## AIM :
 
